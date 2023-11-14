@@ -7,6 +7,6 @@
 
 
 <p align="center">
-  <img src="https://github.com/VIStA-H/GPT-4V_Social_Media/blob/main/overview.png?raw=true" width=50%/>
+  <img src="https://github.com/VIStA-H/GPT-4V_Social_Media/blob/main/overview.png" width=100%/>
 </p>
 
