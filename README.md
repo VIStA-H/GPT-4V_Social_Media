@@ -5,7 +5,7 @@
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 ## 📣 News
-* **[2023/11/15]**  We will release all the eval code and data asap! Welcome to **watch** 👀 this repository for the latest updates, stay tuned ✨!
+* **[2023/11/15]**  We will release all the eval code and data asap! Welcome to 👀 this repository for the latest updates, stay tuned ✨!
 
 ## 😮 Highlights
 
