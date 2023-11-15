@@ -9,7 +9,7 @@
 
 ## 😮 Highlights
 
-### 💡 The first report of the GPT-4V for social multimedia analysis
+### 💡 The First Report of the GPT-4V for Social Multimedia Analysis
 In this paper, we explore GPT-4V(ision)'s capabilities for social multimedia analysis. We select five representative tasks, including **sentiment analysis**, **hate speech detection**, **fake news identification**, **demographic inference**, and **political ideology detection**.
 
 <div align=center>
@@ -43,6 +43,7 @@ In this paper, we explore GPT-4V(ision)'s capabilities for social multimedia ana
   <img src="https://github.com/VIStA-H/GPT-4V_Social_Media/blob/main/example/ideological%20deductions%20from%20visual%20subtleties.png" width=50%/>
 </p>
 
+### 📈 The Challenges and Opportunities of Social MultiMedia with GPT-4V
 <p align="center">
   <img src="https://github.com/VIStA-H/GPT-4V_Social_Media/blob/main/example/multilingual%20social%20multimedia%20understanding.png" width=50%/>
 </p>
