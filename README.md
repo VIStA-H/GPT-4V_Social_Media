@@ -65,10 +65,10 @@ In this paper, we explore GPT-4V(ision)'s capabilities for social multimedia ana
 ## ✏️ Citation
 If you find this paper useful, please consider staring 🌟 this repo and citing 📑 our paper:
 ```
-@article{lyu2023GPT4VSocial,
-title = {GPT-4V(ision) as A Social Media Analysis Engine},
-author = {Hanjia Lyu and Jinfa Huang and Daoan Zhang and Yongsheng Yu and Xinyi Mou and Jinsheng Pan and Zhengyuan Yang and Zhongyu Wei and Jiebo Luo},
-journal={arXiv preprint arXiv:2311.07547},
-year={2023}
+@article{lyu2023gpt,
+  title={GPT-4V (ision) as A Social Media Analysis Engine},
+  author={Lyu, Hanjia and Huang, Jinfa and Zhang, Daoan and Yu, Yongsheng and Mou, Xinyi and Pan, Jinsheng and Yang, Zhengyuan and Wei, Zhongyu and Luo, Jiebo},
+  journal={arXiv preprint arXiv:2311.07547},
+  year={2023}
 }
 ```
