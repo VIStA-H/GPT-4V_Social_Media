@@ -59,11 +59,6 @@ In this paper, we explore GPT-4V(ision)'s capabilities for social multimedia ana
 </p>
 
 
-## 👍 Acknowledgement
-* [The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)](https://arxiv.org/abs/2309.17421) The report motivate us a lot and it is an general comprehensive vision task analysis report of GPT-4V.
-* [MM-Vid](https://multimodal-vid.github.io/) Great job contributing the video understanding of GPT-4V.
-
-
 ## ✏️ Citation
 If you find this paper useful, please consider staring 🌟 this repo and citing 📑 our paper:
 ```
