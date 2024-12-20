@@ -84,3 +84,19 @@ month = dec,
 keywords = {Large Multimodal Model, GPT-4V(ision), Social Media Analytics}
 }
 ```
+
+## 📖 Related Work
+
+[ICWSM 2024] [Human vs. LMMs: Exploring the Discrepancy in Emoji Interpretation and Usage in Digital Communication](https://ojs.aaai.org/index.php/ICWSM/article/view/31453)
+
+[IEEE BigData 2024] [Semantics Preserving Emoji Recommendation with Large Language Models](https://arxiv.org/pdf/2409.10760)
+
+[ICPR 2024] [A Benchmark and Chain-of-Thought Prompting Strategy for Large Multimodal Models with Multiple Image Inputs](https://arxiv.org/pdf/2401.02582.pdf)
+
+[ICME 2024] [Chain-of-Thought Prompting for Demographic Inference with Large Multimodal Models](https://arxiv.org/pdf/2405.15687)
+
+[WWW 2024] [Unifying Local and Global Knowledge: Empowering Large Language Models as Political Experts with Knowledge Graphs](https://brucelyu17.github.io/papers/PEG.pdf)
+
+[ACL 2024] [SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://aclanthology.org/2024.findings-acl.140.pdf)
+
+[COLING 2025] [Evolver: Chain-of-Evolution Prompting to Boost Large Multimodal Models for Hateful Meme Detection](https://arxiv.org/pdf/2407.21004)
