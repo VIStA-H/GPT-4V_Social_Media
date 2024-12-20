@@ -15,7 +15,7 @@
 In this paper, we explore GPT-4V(ision)'s capabilities for social multimedia analysis. We select five representative tasks, including **sentiment analysis**, **hate speech detection**, **fake news identification**, **demographic inference**, and **political ideology detection**.
 
 <div align=center>
-<img src="example/new_task_introduction.jpg" width="500px">
+<img src="example/new_task_introduction.png" width="500px">
 </div>
 
 ### 🔥 Emerging Properties of the GPT-4V as a Social Multimedia Analysis Engine
