@@ -5,6 +5,8 @@
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 ## 📣 News
+* **[2024/12/20]** We have released our code, prompt, and data. 
+* **[2024/11/21]** Our paper was accepted by the ACM Transactions on Intelligent Systems and Technology!
 * **[2023/11/15]**  We will release all the eval code, prompt, and data asap! Welcome to 👀 this repository for the latest updates, stay tuned ✨!
 
 ## 😮 Highlights
