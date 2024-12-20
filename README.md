@@ -2,7 +2,7 @@
 
 ## 📣 News
 * **[2024/12/20]** We have released our code, prompt, and data. 
-* **[2024/11/21]** Our paper was accepted by the ACM Transactions on Intelligent Systems and Technology!
+* **[2024/11/21]** Our paper was accepted by the [ACM Transactions on Intelligent Systems and Technology](https://dl.acm.org/journal/TIST)!
 * **[2023/11/15]**  We will release all the eval code, prompt, and data asap! Welcome to 👀 this repository for the latest updates, stay tuned ✨!
 
 ## 📊 Data Schema
