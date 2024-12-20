@@ -9,6 +9,16 @@
 * **[2024/11/21]** Our paper was accepted by the ACM Transactions on Intelligent Systems and Technology!
 * **[2023/11/15]**  We will release all the eval code, prompt, and data asap! Welcome to 👀 this repository for the latest updates, stay tuned ✨!
 
+## 📊 Data Schema
+Fields: tid, text, gt
+* ground truth (gt)
+  * sentiment_analysis: {1: positive, 2: negative, 0: neutral}
+  * hate_speech_detection: {1: hate, 0: non-hate}
+  * fake_news_identification: {1: fake, 0: real}
+  * demographic_inference: {1: male, 0: female}
+  * ideology_detection: {1: left, 2: right, 0: center}  
+
+
 ## 😮 Highlights
 
 
