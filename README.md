@@ -1,8 +1,4 @@
-<!-- <div align=center>
-<img src="example/social_media_logo.jpg" width="200px">
-</div> -->
 <h2 align="center"> <a href="https://doi.org/10.1145/3709005">GPT-4V(ision) as A Social Media Analysis Engine</a></h2>
-<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 ## 📣 News
 * **[2024/12/20]** We have released our code, prompt, and data. 
