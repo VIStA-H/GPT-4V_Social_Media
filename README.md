@@ -1,6 +1,6 @@
-<div align=center>
+<!-- <div align=center>
 <img src="example/social_media_logo.jpg" width="200px">
-</div>
+</div> -->
 <h2 align="center"> <a href="https://arxiv.org/abs/2311.07547">GPT-4V(ision) as A Social Media Analysis Engine</a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
