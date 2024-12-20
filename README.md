@@ -1,5 +1,8 @@
 <h2 align="center"> <a href="https://doi.org/10.1145/3709005">GPT-4V(ision) as A Social Media Analysis Engine</a></h2>
 
+## ✉️ Contact
+Hanjia Lyu ([hlyu5@ur.rochester.edu](hlyu5@ur.rochester.edu))
+
 ## 📣 News
 * **[2024/12/20]** We have released our code, prompt, and data. 
 * **[2024/11/21]** Our paper was accepted by the [ACM Transactions on Intelligent Systems and Technology](https://dl.acm.org/journal/TIST)!
